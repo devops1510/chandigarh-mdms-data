@@ -1,5 +1,5 @@
 {
-  "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+  "tenantId": "ch"  , //<ReplaceWithDesiredTenantId>
   "moduleName": "egov-hrms",
   "Specalization": [
     {
